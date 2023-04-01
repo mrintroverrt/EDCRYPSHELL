@@ -1,4 +1,4 @@
-# Encryption/Decryption Script
+# Encryption/Decryption Using Script
 
 This is a shell script that provides functions for encrypting and decrypting values using bitwise shift operators. The `enc()` function takes two arguments, a value to encrypt and a shift value, and returns the encrypted value. The `dcr()` function takes two arguments, an encrypted value and the same shift value used in encryption, and returns the decrypted value.
 
