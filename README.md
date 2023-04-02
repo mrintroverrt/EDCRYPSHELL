@@ -9,6 +9,12 @@ To use the script, open a terminal and run the following commands:
 `$ chmod +x encryption.sh`
 `$ ./encryption.sh`
 
+## Functions
+
+By Calling the `enc` and `dcr` you can encrypt and decrypt 
+Sample 
+`enc 2 3 `
+`dcr 16 3 `
 
 This will run the script and display a prompt for entering a value and shift value. You can then choose to encrypt or decrypt the value.
 
